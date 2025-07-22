@@ -1,4 +1,4 @@
-# 📊 DBT Masterclass – Netflix Data Warehouse Project
+# 📊 DBT – Netflix Data Warehouse Project
 
 ## Overview
 
