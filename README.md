@@ -27,3 +27,23 @@ The goal is to transform raw Netflix data into **clean, structured marts** for b
 | `models/analysis/` | Create reporting views or ad-hoc analysis |
 | `macros/` | Custom DBT macros |
 | `tests/` | Data quality tests |
+
+
+## 🗄️ Data Sources
+
+| Dataset | Description |
+|----------|-------------|
+| **Netflix Titles** | Movies and TV shows metadata |
+| **Viewing History** | Simulated user viewing logs |
+| **Subscriptions** | Customer subscription details |
+
+---
+
+## 📈 Business Use Cases
+
+- Track **total watch time by region**
+- Identify **most popular genres**
+- Analyze **churn risk** by subscription type
+- Monitor **daily active users (DAU)**
+
+---
